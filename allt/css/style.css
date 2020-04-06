@@ -1742,7 +1742,6 @@
 
  	 .hypesquad {
  	 	 transition: all 0.3s cubic-bezier(.25,.8,.25,1);
- 	 	 width:200px;
  	 }
 
  	 .hypesquad:hover {
@@ -1931,4 +1930,9 @@
 	-webkit-animation: swirl-in-fwd 0.6s ease-out both;
 	-moz-animation: swirl-in-fwd 0.6s ease-out both;
 	animation: swirl-in-fwd 0.6s ease-out both;
+}
+
+.collab-pic {
+	width: 10rem;
+	padding:2rem;
 }
