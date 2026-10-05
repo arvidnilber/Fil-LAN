@@ -1624,7 +1624,7 @@
 /* INFO */
 
 	#info {
-		background: url("images/overlay.png"), url("../../images/info.jpg");
+		background: url("images/overlay.png"), url("../../images/info2.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1768,7 +1768,7 @@
 	}
 
 	#anmalan {
-		background: url("images/overlay.png"), url("../../images/anmalan.jpg");
+		background: url("images/overlay.png"), url("../../images/anmalan2.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
